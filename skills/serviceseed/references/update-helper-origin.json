@@ -1,0 +1,19 @@
+{
+  "source_repository": "https://github.com/alcheme-labs/agent-bridge-spec",
+  "basis": "published Agent Bridge Skill 0.1.0, checked 2026-11-13; same source hashes as the local preparation",
+  "source_commit": "0e556c6a1c7841a11715b917e88eeede578334b3",
+  "source_license": "Apache-2.0",
+  "adaptation": "package/state/tag/test-fixture names only; same notification algorithm",
+  "files": [
+    {
+      "source": "skills/agent-bridge-integration/scripts/check_updates.py",
+      "sha256": "970496528831d7801af03f606fae940396c451e5a2ded0a527d4a48246453171",
+      "destination": "skills/serviceseed/scripts/check_updates.py"
+    },
+    {
+      "source": "tests/test_skill_updates.py",
+      "sha256": "3b4e734926a90f1009d25b22b712160aabf27a6bb6fde74e9f05d4e6cd7d763f",
+      "destination": "tests/test_skill_updates.py"
+    }
+  ]
+}

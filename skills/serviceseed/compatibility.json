@@ -1,0 +1,22 @@
+{
+  "serviceseed_protocol": {
+    "version": "0.3",
+    "status": "draft",
+    "source_language": "zh-CN",
+    "english": "references/protocol.md",
+    "chinese": "references/protocol.zh-CN.md"
+  },
+  "agent_bridge": {
+    "required": false,
+    "repository": "https://github.com/alcheme-labs/agent-bridge-spec",
+    "skill_name": "agent-bridge-integration",
+    "reviewed_specification": "normative draft 0.3 (2026-11-13)",
+    "reviewed_skill_version": "0.1.0",
+    "reference_basis": "published source and Skill release checked 2026-11-13; document review only",
+    "reviewed_commit": "0e556c6a1c7841a11715b917e88eeede578334b3",
+    "reviewed_release": "https://github.com/alcheme-labs/agent-bridge-spec/releases/tag/agent-bridge-integration-v0.1.0",
+    "version_policy": "independent releases; review role, binding and required capability changes before adoption",
+    "runtime_compatibility": "not verified",
+    "supported_version_range": null
+  }
+}

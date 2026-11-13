@@ -1,0 +1,28 @@
+ServiceSeed
+Copyright 2026 ServiceSeed contributors
+
+This distribution contains the ServiceSeed protocol, its translations,
+the serviceseed Skill and supporting packaging/update helpers.
+It is licensed under the Apache License, Version 2.0.
+
+The Skill update checker and its regression tests are adapted from the
+published Agent Bridge integration Skill 0.1.0, inspected 2026-11-13 at
+commit 0e556c6a1c7841a11715b917e88eeede578334b3 under Apache-2.0.
+Adaptations change the package, state namespace, release tag
+prefix and test fixture names; the notification algorithm is preserved.
+Source hashes are recorded in references/update-helper-origin.json in this Skill.
+The upstream reference is https://github.com/alcheme-labs/agent-bridge-spec.
+
+Upstream attribution retained for the adapted files:
+
+Agent Bridge Spec
+Copyright 2026 Alcheme Labs
+
+This project includes specification documents, an integration Skill, and
+maintenance tools maintained by Alcheme Labs.
+
+Third-party standards and projects referenced by the documentation retain
+their respective ownership, licenses, and attribution.
+
+The Agent Bridge specification, Skill body and runtime are not included.
+Their optional use and applicable terms are separate from this package.

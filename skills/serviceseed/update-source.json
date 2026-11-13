@@ -1,0 +1,5 @@
+{
+  "repository": "alcheme-labs/ServiceSeed",
+  "tag_prefix": "serviceseed-v",
+  "check_interval_hours": 24
+}
